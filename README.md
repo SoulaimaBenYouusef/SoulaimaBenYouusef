@@ -8,7 +8,7 @@
 </h1>
 
 <h5 align="center">
-My name is Soulaima Ben Youssef  and I'm an Applied Maths and Software Engineering Student. I'm from Tunisia , living in Sfax and currently searching for an end of year Internship. I'm passionate about machine learning , deep learning , Predictive maintenance and python. 
+My name is Soulaima Ben Youssef  and I'm a freshly graduated Data  engineering Student. I'm from Tunisia , living in Sfax and currently searching for an end of year Internship. I'm passionate about machine learning , deep learning , Predictive maintenance and python. 
 
 ## How to reach me ?benyoussefsoulaima23@gmail.com
 ## My Absolute Favorites:
