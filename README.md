@@ -8,8 +8,8 @@
 </h1>
 
 <h5 align="center">
-My name is Soulaima Ben Youssef  and I'm a freshly graduated Data  engineering Student. I'm from Tunisia , living in Sfax and currently searching for an end of year Internship. I'm passionate about machine learning , deep learning , Predictive maintenance and python. 
-
+As a fresh graduate in Data Engineering and Business Intelligence, I'm passionate about harnessing technology, analytics, and industry principles to innovate in the manufacturing sector. My particular interest lies in Industry 4.0 and Digital Transformation, where the utilization of advanced analytics, machine learning, and predictive maintenance can usher in a new era of efficiency and productivity 💡🦾🚀.
+I'm eager to seize new opportunities that will allow me to continue exploring and pushing the boundaries of data-driven solutions in the realm of Industry 4.0 and Digital Transformation. To echo the words of Arthur C. Clarke, 'The only way to discover the limits of the possible is to go beyond them into the impossible' 💫. I'm ready to dive into the 'impossible,' contributing my skills and passion to the evolving digital landscape.
 ## How to reach me ?benyoussefsoulaima23@gmail.com
 ## My Absolute Favorites:
 - 💻   I love exploring new tech building technology that help people.
